@@ -1,0 +1,10 @@
+br\com\cmb\efad\controller\EmpregadoAdController.class
+br\com\cmb\efad\model\EmpregadoAd.class
+br\com\cmb\efad\repository\EmpregadoAdRepository.class
+br\com\cmb\efad\repository\EmpregadoErpRepository.class
+br\com\cmb\efad\controller\EmpregadoErpController.class
+br\com\cmb\efad\model\EmpregadoErp.class
+br\com\cmb\efad\service\EmpregadoErpServiceImpl.class
+br\com\cmb\efad\service\EmpregadoAdService.class
+br\com\cmb\efad\service\EmpregadoErpService.class
+br\com\cmb\efad\service\EmpregadoAdServiceImpl.class
